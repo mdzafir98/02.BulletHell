@@ -1,0 +1,8 @@
+compile the program and make .exe fle:
+g++ -o main.exe main.cpp include/Bullet.cpp include/Enemy.cpp include/Game.cpp include/Player.cpp include/Background.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+game with boss:
+g++ -o main.exe main.cpp include/Boss.cpp include/Bullet.cpp include/Enemy.cpp include/Game.cpp include/Player.cpp include/Background.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+game with music:
+g++ -o main.exe main.cpp include/AudioManager.cpp include/Boss.cpp include/Bullet.cpp include/Enemy.cpp include/Game.cpp include/Player.cpp include/Background.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
