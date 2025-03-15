@@ -1,6 +1,6 @@
-# Simple shooter game with basic bullet hell mechanics
+# Simple shooter game
 
-simple shooter application using cpp and SFML
+simple shooter application with bullet hell mechanices using cpp and SFML
 
 ![startscreen](https://github.com/user-attachments/assets/a703b19f-66b8-4040-9d94-3a0b889d0314)
 
