@@ -9,5 +9,6 @@ figure 1: start screen of application
 figure 2: game loop of application
 
 video sample:
-https://github.com/user-attachments/assets/0545715d-3cfb-424b-89ea-e74564145fe9
+https://github.com/user-attachments/assets/0c904faf-7b94-4522-a663-be6280a5dc55
+
 
